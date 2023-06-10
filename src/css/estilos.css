@@ -114,6 +114,54 @@ main .cartao-pokemon .tipo {
     background-color: #a6b91a;
 }
 
+.normal {
+    background-color: #7F8C8D;
+}
+
+.voador {
+    background-color: #3dc7ef;
+}
+
+.eletrico {
+    background-color: #eed535;
+}
+
+.terrestre {
+    background-color: #ab9842;
+}
+
+.fada {
+    background-color: #fdb9e9;
+}
+
+.lutador {
+    background-color: #A63F00;
+}
+
+.psiquico {
+    background-color: #D61E6B;
+}
+
+.pedra {
+    background-color: #7B6D0B;
+}
+
+.aco {
+    background-color: #9eb6b7;
+}
+
+.gelo {
+    background-color: #C1D4D6;
+}
+
+.fantasma {
+    background-color: #7b62a3;
+}
+
+.dragao {
+    background-color: #F7A28E;
+}
+
 main .descricao {
     max-height: 80px;
     overflow-y: scroll;
